@@ -1,0 +1,1 @@
+{"engines":{"node":">=18"},"name":"icf-practice-api","private":true,"scripts":{"start":"node server.js","test":"node test.js"},"type":"commonjs"}
